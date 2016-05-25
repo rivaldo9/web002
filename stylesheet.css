@@ -1,11 +1,12 @@
-
 div {
 	height: 30px;
 	width: 100px;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: #308014;
-	margin-top: 20%;
+	margin-top: 2%;
 	margin-left:45%;
 }
-
+h1 {
+    margin-top:20%;
+}
